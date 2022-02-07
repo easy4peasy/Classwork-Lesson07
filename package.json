@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/easy4peasy/Classwork-Lesson07/issues"
   },
-  "homepage": "https://github.com/easy4peasy/Classwork-Lesson07#readme"
+  "homepage": "https://github.com/easy4peasy/Classwork-Lesson07#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
